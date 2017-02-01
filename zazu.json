@@ -7,7 +7,7 @@
       {
         "id": "gh",
         "args": "Optional",
-        "prefix": "gh",
+        "prefix": "ggh",
         "script": "src/index.js",
         "space": true,
         "type": "PrefixScript",
